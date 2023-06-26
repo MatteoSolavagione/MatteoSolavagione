@@ -1,6 +1,6 @@
 ![](https://github.com/MatteoSolavagione/MatteoSolavagione/blob/main/a-for-programmers-wallpaper.png)
 # Hi there 👋
-I'm Matteo, 19 years IT student at high school and I like front-end development. Maybe in the future I will also learn back-end development. 
+I'm Matteo, 19 years IT student at high school. I like developing websites and web applications. My goal ia to become a full stack developer.
 - 👀 I’m interested in programming
 - 💻 I’m currently learning Javascript
 - 📫 If you want to reach me, this is my email: **matteosolavagione04@gmail.com**
