@@ -1,14 +1,46 @@
-![](https://github.com/MatteoSolavagione/MatteoSolavagione/blob/main/a-for-programmers-wallpaper.png)
-# Hi there 👋
-I'm Matteo, 19 years IT student at high school. I like developing websites and web applications. My goal is to become a full stack developer.
-- 👀 I’m interested in programming
-- 💻 I’m currently learning Javascript
-- 📫 If you want to reach me, this is my email: **matteosolavagione04@gmail.com**
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/351459765395783680/>
+</p>
+
+```js
+class Attributes(self){
+    init(self) => {
+      self.name = "Matteo"
+      self.age = 19
+    }
+
+    contact(self) => console.log("Discord -> mxtty#6849")
+
+    about_me(self) => {
+        console.log("I like programming and listening rap/trap music")
+        console.log("I love football")
+    }
+
+    learn(self) => {
+        obv = [
+            'Reverse Engineering'
+            'Captcha Solver'
+            'Game Hacking'
+            'And other things...'
+        ]
+}
+    
+}
+
+
+
+
+```
   
-#
 
-### Languages and tools
+<h2 align="center">Skills </h2>
 
-<img align="left" alt="HTML" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,html,css,js,git,php" />
+  </a>
+</p>
+
+
+
+
